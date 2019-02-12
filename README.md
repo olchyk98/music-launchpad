@@ -1,2 +1,2 @@
 # music-launchpad
-Launchpad visual show based on your favorite songs!
+Rectangles visual show based on your favorite songs!
