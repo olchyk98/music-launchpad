@@ -3,6 +3,11 @@ let loadingIcon =
     launchpad =
     null;
 
+// var radgrad = ctx.createRadialGradient(20,30,0,20,20,20);
+//         radgrad.addColorStop(0, 'rgba(255,0,0,1)');
+//         radgrad.addColorStop(0.8, 'rgba(228,0,0,.9)');
+//         radgrad.addColorStop(1, 'rgba(228,0,0,0)');
+
 const stats = {
     loadingSong: false
 }
